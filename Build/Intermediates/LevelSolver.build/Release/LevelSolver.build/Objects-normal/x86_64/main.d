@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/main.cpp \
+  /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SpookyHash.h \
+  /usr/local/include/google/sparse_hash_map \
+  /usr/local/include/sparsehash/sparse_hash_map \
+  /usr/local/include/sparsehash/internal/sparseconfig.h \
+  /usr/local/include/sparsehash/internal/libc_allocator_with_realloc.h \
+  /usr/local/include/sparsehash/internal/sparsehashtable.h \
+  /usr/local/include/sparsehash/type_traits.h \
+  /usr/local/include/sparsehash/template_util.h \
+  /usr/local/include/sparsehash/internal/hashtable-common.h \
+  /usr/local/include/sparsehash/sparsetable \
+  /usr/local/include/google/sparse_hash_set \
+  /usr/local/include/sparsehash/sparse_hash_set \
+  /usr/local/include/google/dense_hash_map \
+  /usr/local/include/sparsehash/dense_hash_map \
+  /usr/local/include/sparsehash/internal/densehashtable.h \
+  /usr/local/include/google/dense_hash_set \
+  /usr/local/include/sparsehash/dense_hash_set \
+  /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/Settings.h \
+  /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SolverHelperTypes.h \
+  /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h

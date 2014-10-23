@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LevelSolver/main.cpp"
+            timestampString = "426795454.302992"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "705"
+            endingLineNumber = "705"
+            landmarkName = "main(int argc, const char * argv[])"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LevelSolver/main.cpp"
+            timestampString = "426795137.530647"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "476"
+            endingLineNumber = "476"
+            landmarkName = "addAllSnakeMovements(GameState * rootState, int snakeIndex)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../usr/local/include/sparsehash/internal/sparsehashtable.h"
+            timestampString = "426203815.242331"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1195"
+            endingLineNumber = "1195"
+            landmarkName = "class sparse_hashtable"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LevelSolver/main.cpp"
+            timestampString = "426795454.302992"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "688"
+            endingLineNumber = "688"
+            landmarkName = "main(int argc, const char * argv[])"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LevelSolver/GameState.h"
+            timestampString = "426792213.930673"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "operator==(const GameState&amp; rhs)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "LevelSolver"
+                  urlString = "file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h"
+                  timestampString = "426732220.461556"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "697">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "std::__1::__hash_table&lt;std::__1::__hash_value_type&lt;GameStateRef, bool&gt;, std::__1::__unordered_map_hasher&lt;GameStateRef, std::__1::__hash_value_type&lt;GameStateRef, bool&gt;, std::__1::hash&lt;GameStateRef&gt;, true&gt;, std::__1::__unordered_map_equal&lt;GameStateRef, std::__1::__hash_value_type&lt;GameStateRef, bool&gt;, std::__1::equal_to&lt;GameStateRef&gt;, true&gt;, std::__1::allocator&lt;std::__1::__hash_value_type&lt;GameStateRef, bool&gt; &gt; &gt;::__node_insert_unique(std::__1::__hash_node&lt;std::__1::__hash_value_type&lt;GameStateRef, bool&gt;, void*&gt;*)"
+                  moduleName = "LevelSolver"
+                  urlString = "file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h"
+                  timestampString = "426732220.461805"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "173">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "std::__1::__hash_table&lt;std::__1::__hash_value_type&lt;GameStateRef, bool&gt;, std::__1::__unordered_map_hasher&lt;GameStateRef, std::__1::__hash_value_type&lt;GameStateRef, bool&gt;, std::__1::hash&lt;GameStateRef&gt;, true&gt;, std::__1::__unordered_map_equal&lt;GameStateRef, std::__1::__hash_value_type&lt;GameStateRef, bool&gt;, std::__1::equal_to&lt;GameStateRef&gt;, true&gt;, std::__1::allocator&lt;std::__1::__hash_value_type&lt;GameStateRef, bool&gt; &gt; &gt;::__rehash(unsigned long)"
+                  moduleName = "LevelSolver"
+                  urlString = "file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h"
+                  timestampString = "426732220.462085"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "273">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "std::__1::__hash_iterator&lt;std::__1::__hash_node&lt;std::__1::__hash_value_type&lt;GameStateRef, bool&gt;, void*&gt;*&gt; std::__1::__hash_table&lt;std::__1::__hash_value_type&lt;GameStateRef, bool&gt;, std::__1::__unordered_map_hasher&lt;GameStateRef, std::__1::__hash_value_type&lt;GameStateRef, bool&gt;, std::__1::hash&lt;GameStateRef&gt;, true&gt;, std::__1::__unordered_map_equal&lt;GameStateRef, std::__1::__hash_value_type&lt;GameStateRef, bool&gt;, std::__1::equal_to&lt;GameStateRef&gt;, true&gt;, std::__1::allocator&lt;std::__1::__hash_value_type&lt;GameStateRef, bool&gt; &gt; &gt;::find&lt;GameStateRef&gt;(GameStateRef const&amp;)"
+                  moduleName = "LevelSolver"
+                  urlString = "file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h"
+                  timestampString = "426732220.462357"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "175">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "google::sparse_hashtable&lt;GameStateRef, GameStateRef, std::__1::hash&lt;GameStateRef&gt;, google::sparse_hash_set&lt;GameStateRef, std::__1::hash&lt;GameStateRef&gt;, std::__1::equal_to&lt;GameStateRef&gt;, google::libc_allocator_with_realloc&lt;GameStateRef&gt; &gt;::Identity, google::sparse_hash_set&lt;GameStateRef, std::__1::hash&lt;GameStateRef&gt;, std::__1::equal_to&lt;GameStateRef&gt;, google::libc_allocator_with_realloc&lt;GameStateRef&gt; &gt;::SetKey, std::__1::equal_to&lt;GameStateRef&gt;, google::libc_allocator_with_realloc&lt;GameStateRef&gt; &gt;::insert_noresize(GameStateRef const&amp;)"
+                  moduleName = "LevelSolver"
+                  urlString = "file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h"
+                  timestampString = "426732220.462573"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "45">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "google::sparse_hashtable&lt;GameStateRef, GameStateRef, std::__1::hash&lt;GameStateRef&gt;, google::sparse_hash_set&lt;GameStateRef, std::__1::hash&lt;GameStateRef&gt;, std::__1::equal_to&lt;GameStateRef&gt;, google::libc_allocator_with_realloc&lt;GameStateRef&gt; &gt;::Identity, google::sparse_hash_set&lt;GameStateRef, std::__1::hash&lt;GameStateRef&gt;, std::__1::equal_to&lt;GameStateRef&gt;, google::libc_allocator_with_realloc&lt;GameStateRef&gt; &gt;::SetKey, std::__1::equal_to&lt;GameStateRef&gt;, google::libc_allocator_with_realloc&lt;GameStateRef&gt; &gt;::find_position(GameStateRef const&amp;) const"
+                  moduleName = "LevelSolver"
+                  urlString = "file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h"
+                  timestampString = "426732220.462879"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "174">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "google::sparse_hashtable&lt;GameStateRef, GameStateRef, std::__1::hash&lt;GameStateRef&gt;, google::sparse_hash_set&lt;GameStateRef, std::__1::hash&lt;GameStateRef&gt;, std::__1::equal_to&lt;GameStateRef&gt;, google::libc_allocator_with_realloc&lt;GameStateRef&gt; &gt;::Identity, google::sparse_hash_set&lt;GameStateRef, std::__1::hash&lt;GameStateRef&gt;, std::__1::equal_to&lt;GameStateRef&gt;, google::libc_allocator_with_realloc&lt;GameStateRef&gt; &gt;::SetKey, std::__1::equal_to&lt;GameStateRef&gt;, google::libc_allocator_with_realloc&lt;GameStateRef&gt; &gt;::test_deleted_key(GameStateRef const&amp;) const"
+                  moduleName = "LevelSolver"
+                  urlString = "file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h"
+                  timestampString = "426732220.463178"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LevelSolver/GameState.h"
+            timestampString = "426792213.930673"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "operator==(const GameState&amp; rhs)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

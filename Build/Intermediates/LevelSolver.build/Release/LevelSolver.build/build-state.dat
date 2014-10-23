@@ -1,0 +1,542 @@
+TLevelSolver
+v6
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/SpookyHash.o /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SpookyHash.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/main.o /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Products/Release/LevelSolver normal x86_64
+cGenerateDSYMFile /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Products/Release/LevelSolver.dSYM /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Products/Release/LevelSolver
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c0000000053483DA200000000000000AA
+t1397243298
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005268EA7A000000000000044C
+t1382607482
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531EB4B600000000000001DE
+t1394521270
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+c00000000531EB4B8000000000000681C
+t1394521272
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+c000000005268EA7E000000000006E8B0
+t1382607486
+s452784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+c000000005268EA7E0000000000004734
+t1382607486
+s18228
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+c000000005268EA7E000000000000FC6C
+t1382607486
+s64620
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+c000000005268EA7E000000000000F6A0
+t1382607486
+s63136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+c000000005268EA7E0000000000006254
+t1382607486
+s25172
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+c000000005268EA7E000000000000E0F8
+t1382607486
+s57592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+c00000000531EB4B8000000000000D6DC
+t1394521272
+s55004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+c00000000531EB4B80000000000006308
+t1394521272
+s25352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+c000000005268EA7E0000000000004050
+t1382607486
+s16464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+c00000000531EB4B80000000000008570
+t1394521272
+s34160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+c000000005268EA7E0000000000005EA0
+t1382607486
+s24224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+c000000005268EA7E0000000000005FAC
+t1382607486
+s24492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+c000000005268EA7E0000000000004440
+t1382607486
+s17472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+c000000005268EA7E000000000000AA28
+t1382607486
+s43560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+c000000005268EA7E0000000000003E2C
+t1382607486
+s15916
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+c00000000531EB4B80000000000030B04
+t1394521272
+s199428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+c00000000531EB4B80000000000005E54
+t1394521272
+s24148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000531EB4B80000000000006A90
+t1394521272
+s27280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+c000000005268EA7E00000000000178AC
+t1382607486
+s96428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000531EB4B8000000000001ADC8
+t1394521272
+s110024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+c000000005268EA7E000000000001028C
+t1382607486
+s66188
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+c00000000531EB4B80000000000008800
+t1394521272
+s34816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+c000000005268EA7E0000000000011090
+t1382607486
+s69776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+c000000005268EA7E000000000000882C
+t1382607486
+s34860
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+c00000000531EB4B800000000000067AC
+t1394521272
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+c000000005268EA7E0000000000008DEC
+t1382607486
+s36332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000531EB4B80000000000004C08
+t1394521272
+s19464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+c00000000531EB4B80000000000002428
+t1394521272
+s9256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+c000000005268EA7E000000000000439C
+t1382607486
+s17308
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+c000000005268EA7E0000000000006768
+t1382607486
+s26472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+c00000000531EB4B800000000000172F4
+t1394521272
+s94964
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531EB4B90000000000000ADC
+t1394521273
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+c0000000053483D8E0000000000001770
+t1397243278
+s6000
+
+N/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/GameState.o
+t2
+s0
+
+N/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/LevelSolver.LinkFileList
+c0000000053BF17700000000000000132
+t1405032304
+s306
+
+N/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/SpookyHash.o
+t1404494352
+s43948
+
+N/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/main.o
+t1405104752
+s1382564
+
+N/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Products/Release/LevelSolver
+t1405104752
+s93312
+
+N/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Products/Release/LevelSolver.dSYM
+t1405103546
+s102
+
+N/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp
+c0000000053BF175700000000000000B3
+t1405032279
+s179
+
+N/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h
+c0000000053BF359500000000000012F0
+t1405040021
+s4848
+
+N/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/Settings.h
+c0000000053BF348700000000000001D0
+t1405039751
+s464
+
+N/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SolverHelperTypes.h
+c0000000053BF28130000000000000ACC
+t1405036563
+s2764
+
+N/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SpookyHash.cpp
+c0000000053851636000000000000235C
+t1401230902
+s9052
+
+N/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SpookyHash.h
+c000000005385163600000000000031CE
+t1401230902
+s12750
+
+N/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/main.cpp
+c0000000053C032680000000000005BB9
+t1405104744
+s23481
+
+N/usr/local/include/google/dense_hash_map
+c0000000053B5B3E30000000000000700
+t1404416995
+s1792
+
+N/usr/local/include/google/dense_hash_set
+c0000000053B5B3E30000000000000700
+t1404416995
+s1792
+
+N/usr/local/include/google/sparse_hash_map
+c0000000053B5B3E30000000000000701
+t1404416995
+s1793
+
+N/usr/local/include/google/sparse_hash_set
+c0000000053B5B3E30000000000000701
+t1404416995
+s1793
+
+N/usr/local/include/sparsehash/dense_hash_map
+c0000000053B5B3E30000000000003E83
+t1404416995
+s16003
+
+N/usr/local/include/sparsehash/dense_hash_set
+c0000000053B5B3E30000000000003933
+t1404416995
+s14643
+
+N/usr/local/include/sparsehash/internal/densehashtable.h
+c0000000053B5B3E3000000000000D38B
+t1404416995
+s54155
+
+N/usr/local/include/sparsehash/internal/hashtable-common.h
+c0000000053B5B3E30000000000003827
+t1404416995
+s14375
+
+N/usr/local/include/sparsehash/internal/libc_allocator_with_realloc.h
+c0000000053B5B3E30000000000000F4B
+t1404416995
+s3915
+
+N/usr/local/include/sparsehash/internal/sparseconfig.h
+c0000000053B5B3E30000000000000526
+t1404416995
+s1318
+
+N/usr/local/include/sparsehash/internal/sparsehashtable.h
+c0000000053B7249D000000000000CE0A
+t1404511389
+s52746
+
+N/usr/local/include/sparsehash/sparse_hash_map
+c0000000053B5B3E30000000000003D25
+t1404416995
+s15653
+
+N/usr/local/include/sparsehash/sparse_hash_set
+c0000000053B5B3E3000000000000389F
+t1404416995
+s14495
+
+N/usr/local/include/sparsehash/sparsetable
+c0000000053B5B3E3000000000001312E
+t1404416995
+s78126
+
+N/usr/local/include/sparsehash/template_util.h
+c0000000053B5B3E3000000000000126E
+t1404416995
+s4718
+
+N/usr/local/include/sparsehash/type_traits.h
+c0000000053B5B3E30000000000003B7E
+t1404416995
+s15230
+
+CBuild AST from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp
+r0
+
+CBuild AST from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SpookyHash.cpp
+r0
+
+CBuild AST from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies9e0b03ee6970b941^4d4803ee6970b941^---0#1#1#--18"Check dependencies36"6DE085EE-A6B6-4675-813C-3900373E29E3-
+
+CCompileC Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/GameState.o /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s426725079.399868
+e426725080.030778
+r0
+xCompileC
+xBuild/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/GameState.o
+x/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp:9:10: error: 'GameState.h' file not found with <angled> include; use "quotes" instead
+o#include <GameState.h>
+o         ^~~~~~~~~~~~~
+o         "GameState.h"
+oIn file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp:9:
+oIn file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h:14:
+o/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SolverHelperTypes.h:89:1: error: no template named 'unordered_map'; did you mean 'std::unordered_map'?
+ounordered_map<Dir,int> dirToDiffMap;
+o^~~~~~~~~~~~~
+ostd::unordered_map
+oIn file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp:9:
+oIn file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h:14:
+oIn file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SolverHelperTypes.h:13:
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/unordered_map:711:29: note: 'std::unordered_map' declared here
+oclass _LIBCPP_TYPE_VIS_ONLY unordered_map
+o                            ^
+oIn file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp:9:
+oIn file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h:14:
+o/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SolverHelperTypes.h:90:1: error: no template named 'unordered_map'; did you mean 'std::unordered_map'?
+ounordered_map<pair<Dir,Dir>, OccupantKey> dirsToOccMap;
+o^~~~~~~~~~~~~
+ostd::unordered_map
+oIn file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp:9:
+oIn file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h:14:
+oIn file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SolverHelperTypes.h:13:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/unordered_map:350:
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/__hash_table:1163:85: note: 'std::unordered_map' declared here
+o    template <class, class, class, class, class> friend class _LIBCPP_TYPE_VIS_ONLY unordered_map;
+o                                                                                    ^
+oIn file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp:9:
+oIn file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h:14:
+o/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SolverHelperTypes.h:90:15: error: no template named 'pair'; did you mean 'std::pair'?
+ounordered_map<pair<Dir,Dir>, OccupantKey> dirsToOccMap;
+o              ^~~~
+o              std::pair
+oIn file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp:9:
+oIn file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h:12:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:38:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/ios:216:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/__locale:15:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/string:439:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/algorithm:626:
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/utility:248:30: note: 'std::pair' declared here
+ostruct _LIBCPP_TYPE_VIS_ONLY pair
+o                             ^
+oIn file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp:9:
+oIn file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h:14:
+o/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SolverHelperTypes.h:91:1: error: no template named 'unordered_map'; did you mean 'std::unordered_map'?
+ounordered_map<Dir,Dir> oppositeDirsMap;
+o^~~~~~~~~~~~~
+ostd::unordered_map
+oIn file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp:9:
+oIn file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h:14:
+oIn file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SolverHelperTypes.h:13:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/unordered_map:350:
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/__hash_table:1163:85: note: 'std::unordered_map' declared here
+o    template <class, class, class, class, class> friend class _LIBCPP_TYPE_VIS_ONLY unordered_map;
+o                                                                                    ^
+oIn file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp:9:
+o/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h:176:20: error: use of undeclared identifier 'SpookyHash'
+o            return SpookyHash::Hash64(x.layout, LEVEL_SIZE, time(NULL));
+o                   ^
+o/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h:184:20: error: use of undeclared identifier 'SpookyHash'
+o            return SpookyHash::Hash64(x->layout, LEVEL_SIZE, time(NULL));
+o                   ^
+o/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h:192:20: error: use of undeclared identifier 'SpookyHash'
+o            return SpookyHash::Hash64(x.gameState->layout, LEVEL_SIZE, time(NULL));
+o                   ^
+o8 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp194"CompileC Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/GameState.o LevelSolver/GameState.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler6e6c66d74e6fb941^8cdc07d84e6fb941^-6250"/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp:9:10: error: 'GameState.h' file not found with <angled> include; use "quotes" instead#include <GameState.h>         ^~~~~~~~~~~~~         "GameState.h"In file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp:9:In file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h:14:/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SolverHelperTypes.h:89:1: error: no template named 'unordered_map'; did you mean 'std::unordered_map'?unordered_map<Dir,int> dirToDiffMap;^~~~~~~~~~~~~std::unordered_mapIn file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp:9:In file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h:14:In file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SolverHelperTypes.h:13:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/unordered_map:711:29: note: 'std::unordered_map' declared hereclass _LIBCPP_TYPE_VIS_ONLY unordered_map                            ^In file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp:9:In file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h:14:/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SolverHelperTypes.h:90:1: error: no template named 'unordered_map'; did you mean 'std::unordered_map'?unordered_map<pair<Dir,Dir>, OccupantKey> dirsToOccMap;^~~~~~~~~~~~~std::unordered_mapIn file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp:9:In file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h:14:In file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SolverHelperTypes.h:13:In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/unordered_map:350:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/__hash_table:1163:85: note: 'std::unordered_map' declared here    template <class, class, class, class, class> friend class _LIBCPP_TYPE_VIS_ONLY unordered_map;                                                                                    ^In file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp:9:In file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h:14:/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SolverHelperTypes.h:90:15: error: no template named 'pair'; did you mean 'std::pair'?unordered_map<pair<Dir,Dir>, OccupantKey> dirsToOccMap;              ^~~~              std::pairIn file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp:9:In file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h:12:In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:38:In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/ios:216:In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/__locale:15:In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/string:439:In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/algorithm:626:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/utility:248:30: note: 'std::pair' declared herestruct _LIBCPP_TYPE_VIS_ONLY pair                             ^In file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp:9:In file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h:14:/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SolverHelperTypes.h:91:1: error: no template named 'unordered_map'; did you mean 'std::unordered_map'?unordered_map<Dir,Dir> oppositeDirsMap;^~~~~~~~~~~~~std::unordered_mapIn file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp:9:In file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h:14:In file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SolverHelperTypes.h:13:In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/unordered_map:350:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/__hash_table:1163:85: note: 'std::unordered_map' declared here    template <class, class, class, class, class> friend class _LIBCPP_TYPE_VIS_ONLY unordered_map;                                                                                    ^In file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp:9:/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h:176:20: error: use of undeclared identifier 'SpookyHash'            return SpookyHash::Hash64(x.layout, LEVEL_SIZE, time(NULL));                   ^/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h:184:20: error: use of undeclared identifier 'SpookyHash'            return SpookyHash::Hash64(x->layout, LEVEL_SIZE, time(NULL));                   ^/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h:192:20: error: use of undeclared identifier 'SpookyHash'            return SpookyHash::Hash64(x.gameState->layout, LEVEL_SIZE, time(NULL));                   ^8 errors generated.8(36%IDEClangDiagnosticActivityLogMessage2@72"'GameState.h' file not found with <angled> include; use "quotes" instead-426725080#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@89"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp0000000000000000^8#9#8#9#163#0#29"Lexical or Preprocessor Issue1(3@89"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp0000000000000000^8#9#8#22#163#13#-2@69"No template named 'unordered_map'; did you mean 'std::unordered_map'?-426725080#18446744073709551615#0#3(2@107"In file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp:9:-426725080#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp0000000000000000^8#9#8#9#163#0#21"Apple LLVM 5.0 Notice--2@106"In file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h:14:-426725080#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h0000000000000000^13#9#13#9#274#0#21"Apple LLVM 5.0 Notice--2@34"'std::unordered_map' declared here-426725080#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@114"file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/unordered_map0000000000000000^710#28#710#28#28447#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@95"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SolverHelperTypes.h0000000000000000^88#0#88#0#1521#0#14"Semantic Issue1(3@95"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SolverHelperTypes.h0000000000000000^88#0#88#13#1521#13#-2@69"No template named 'unordered_map'; did you mean 'std::unordered_map'?-426725080#18446744073709551615#0#3(2@107"In file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp:9:-426725080#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp0000000000000000^8#9#8#9#163#0#21"Apple LLVM 5.0 Notice--2@106"In file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h:14:-426725080#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h0000000000000000^13#9#13#9#274#0#21"Apple LLVM 5.0 Notice--2@34"'std::unordered_map' declared here-426725080#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/__hash_table0000000000000000^1162#84#1162#84#39447#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@95"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SolverHelperTypes.h0000000000000000^89#0#89#0#1558#0#14"Semantic Issue1(3@95"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SolverHelperTypes.h0000000000000000^89#0#89#13#1558#13#-2@51"No template named 'pair'; did you mean 'std::pair'?-426725080#18446744073709551615#0#3(2@107"In file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp:9:-426725080#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp0000000000000000^8#9#8#9#163#0#21"Apple LLVM 5.0 Notice--2@106"In file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h:14:-426725080#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h0000000000000000^13#9#13#9#274#0#21"Apple LLVM 5.0 Notice--2@25"'std::pair' declared here-426725080#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@108"file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/utility0000000000000000^247#29#247#29#7469#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@95"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SolverHelperTypes.h0000000000000000^89#14#89#14#1572#0#14"Semantic Issue1(3@95"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SolverHelperTypes.h0000000000000000^89#14#89#18#1572#4#-2@69"No template named 'unordered_map'; did you mean 'std::unordered_map'?-426725080#18446744073709551615#0#3(2@107"In file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp:9:-426725080#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp0000000000000000^8#9#8#9#163#0#21"Apple LLVM 5.0 Notice--2@106"In file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h:14:-426725080#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h0000000000000000^13#9#13#9#274#0#21"Apple LLVM 5.0 Notice--2@34"'std::unordered_map' declared here-426725080#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/__hash_table0000000000000000^1162#84#1162#84#39447#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@95"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SolverHelperTypes.h0000000000000000^90#0#90#0#1614#0#14"Semantic Issue1(3@95"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SolverHelperTypes.h0000000000000000^90#0#90#13#1614#13#-2@41"Use of undeclared identifier 'SpookyHash'-426725080#18446744073709551615#0#1(2@107"In file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp:9:-426725080#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp0000000000000000^8#9#8#9#163#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h0000000000000000^175#19#175#19#4197#0#14"Semantic Issue--2@41"Use of undeclared identifier 'SpookyHash'-426725080#18446744073709551615#0#1(2@107"In file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp:9:-426725080#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp0000000000000000^8#9#8#9#163#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h0000000000000000^183#19#183#19#4403#0#14"Semantic Issue--2@41"Use of undeclared identifier 'SpookyHash'-426725080#18446744073709551615#0#1(2@107"In file included from /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp:9:-426725080#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp0000000000000000^8#9#8#9#163#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h0000000000000000^191#19#191#19#4613#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@89"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp0000000000000000^3336"CompileC Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/GameState.o LevelSolver/GameState.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/Jonah2/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/LevelSolver-generated-files.hmap -I/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/LevelSolver-own-target-headers.hmap -I/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/LevelSolver-all-target-headers.hmap -iquote /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/LevelSolver-project-headers.hmap -I/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/DerivedSources/x86_64 -I/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/DerivedSources -F/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Products/Release -MMD -MT dependencies -MF /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/GameState.d --serialize-diagnostics /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/GameState.dia -c /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.cpp -o /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/GameState.o36"9011ED74-1C3F-410B-88A8-E787FFED13E6-
+bA36B80CA-45F2-480D-812B-B7A2A8028322
+
+CCompileC Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/SpookyHash.o /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SpookyHash.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s426187152.067426
+e426187152.537444
+r1
+xCompileC
+xBuild/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/SpookyHash.o
+x/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SpookyHash.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SpookyHash.cpp
+d/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SpookyHash.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SpookyHash.cpp196"CompileC Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/SpookyHash.o LevelSolver/SpookyHash.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerfb5811901967b941^b39789901967b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SpookyHash.cpp0000000000000000^3342"CompileC Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/SpookyHash.o LevelSolver/SpookyHash.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/Jonah2/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/LevelSolver-generated-files.hmap -I/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/LevelSolver-own-target-headers.hmap -I/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/LevelSolver-all-target-headers.hmap -iquote /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/LevelSolver-project-headers.hmap -I/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/DerivedSources/x86_64 -I/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/DerivedSources -F/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Products/Release -MMD -MT dependencies -MF /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/SpookyHash.d --serialize-diagnostics /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/SpookyHash.dia -c /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SpookyHash.cpp -o /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/SpookyHash.o36"EE3BF91B-1A4D-4B24-93D4-6F2B8914DCB2-
+b3DABF416-8CC4-409D-8738-4EA4E79F6460
+
+CCompileC Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/main.o /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s426797550.013179
+e426797552.136933
+r1
+xCompileC
+xBuild/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/main.o
+x/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/main.cpp
+d/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SpookyHash.h
+d/usr/local/include/google/sparse_hash_map
+d/usr/local/include/sparsehash/sparse_hash_map
+d/usr/local/include/sparsehash/internal/sparseconfig.h
+d/usr/local/include/sparsehash/internal/libc_allocator_with_realloc.h
+d/usr/local/include/sparsehash/internal/sparsehashtable.h
+d/usr/local/include/sparsehash/type_traits.h
+d/usr/local/include/sparsehash/template_util.h
+d/usr/local/include/sparsehash/internal/hashtable-common.h
+d/usr/local/include/sparsehash/sparsetable
+d/usr/local/include/google/sparse_hash_set
+d/usr/local/include/sparsehash/sparse_hash_set
+d/usr/local/include/google/dense_hash_map
+d/usr/local/include/sparsehash/dense_hash_map
+d/usr/local/include/sparsehash/internal/densehashtable.h
+d/usr/local/include/google/dense_hash_set
+d/usr/local/include/sparsehash/dense_hash_set
+d/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/Settings.h
+d/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SolverHelperTypes.h
+d/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h
+o/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/main.cpp:613:9: warning: unused variable 'cnt' [-Wunused-variable]
+o    int cnt = 0;
+o        ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/main.cpp184"CompileC Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/main.o LevelSolver/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerb16f03ee6970b941^d80d23f06970b941^-184"/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/main.cpp:613:9: warning: unused variable 'cnt' [-Wunused-variable]    int cnt = 0;        ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@21"Unused variable 'cnt'-426797552#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@84"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/main.cpp0000000000000000^612#8#612#8#17848#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@84"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/main.cpp0000000000000000^3306"CompileC Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/main.o LevelSolver/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/Jonah2/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/LevelSolver-generated-files.hmap -I/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/LevelSolver-own-target-headers.hmap -I/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/LevelSolver-all-target-headers.hmap -iquote /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/LevelSolver-project-headers.hmap -I/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Products/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/DerivedSources/x86_64 -I/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/DerivedSources -F/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Products/Release -MMD -MT dependencies -MF /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/main.dia -c /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/main.cpp -o /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/main.o36"666F6B0C-C41F-4AE2-B02B-40E33B172B29-
+b97CA93D9-04B7-4B01-9291-EF08820D8830
+
+CGenerateDSYMFile /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Products/Release/LevelSolver.dSYM /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Products/Release/LevelSolver
+s426797552.160072
+e426797552.213419
+r1
+xGenerateDSYMFile
+x/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Products/Release/LevelSolver.dSYM
+x/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Products/Release/LevelSolver
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Generate /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Products/Release/LevelSolver.dSYM91"GenerateDSYMFile Build/Products/Release/LevelSolver.dSYM Build/Products/Release/LevelSolver9f0529f06970b941^55a436f06970b941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Products/Release/LevelSolver.dSYM/0000000000000000^448"GenerateDSYMFile Build/Products/Release/LevelSolver.dSYM Build/Products/Release/LevelSolver    cd /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Products/Release/LevelSolver -o /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Products/Release/LevelSolver.dSYM36"8C1A5370-A5A5-4223-B5D2-80D56945BE68-
+b97CA93D9-04B7-4B01-9291-EF08820D8830
+
+CLd /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Products/Release/LevelSolver normal x86_64
+s426797552.138471
+e426797552.159454
+r1
+xLd
+x/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Products/Release/LevelSolver
+xnormal
+xx86_64
+d/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/LevelSolver.LinkFileList
+d/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/SpookyHash.o
+d/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Link /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Products/Release/LevelSolver51"Ld Build/Products/Release/LevelSolver normal x86_644d8223f06970b941^4ad328f06970b941^---0#0#1#--1066"Ld Build/Products/Release/LevelSolver normal x86_64    cd /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Products/Release -F/Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Products/Release -filelist /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/LevelSolver.LinkFileList -mmacosx-version-min=10.9 -stdlib=libc++ -Xlinker -dependency_info -Xlinker /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/Objects-normal/x86_64/LevelSolver_dependency_info.dat -o /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/Build/Products/Release/LevelSolver36"E22067EA-240B-4D9E-9A35-CC9901034720-
+b97CA93D9-04B7-4B01-9291-EF08820D8830
+
