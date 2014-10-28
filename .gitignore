@@ -1,5 +1,3 @@
-Build
-
 # Compiled Object files
 *.slo
 *.lo
@@ -29,10 +27,4 @@ Build
 *.out
 *.app
 
-Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/LevelSolver-all-target-headers.hmap
-
-Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/LevelSolver-own-target-headers.hmap
-
-Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/LevelSolver.hmap
-
-Build/Intermediates/LevelSolver.build/Release/LevelSolver.build/LevelSolver-project-headers.hmap
+Build/*
