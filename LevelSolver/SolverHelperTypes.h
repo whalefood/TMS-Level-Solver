@@ -2,9 +2,6 @@
 //  SolverHelperTypes.h
 //  LevelSolver
 //
-//  Created by Jonah Wallerstein on 7/10/14.
-//  Copyright (c) 2014 Whale Food Software. All rights reserved.
-//
 
 #ifndef LevelSolver_SolverHelperTypes_h
 #define LevelSolver_SolverHelperTypes_h
@@ -17,6 +14,8 @@ enum class OccupantKey : uint8_t
 {
     Empty =0 ,// = "_",
     
+    Player,// = "@"
+    
     EndL,// = ">", --  >
     EndD,// = "n", -- n
     EndR,// = "<", --  <
@@ -27,9 +26,8 @@ enum class OccupantKey : uint8_t
     BendRD,// = "7", -- 7
     BendRU,// = "J", -- J
     BendDR,// = "L", -- L
-    BendUR,// = "r", -- r
+    BendUR// = "r", -- r
     
-    Player// = "@"
 };
 
 enum class Dir

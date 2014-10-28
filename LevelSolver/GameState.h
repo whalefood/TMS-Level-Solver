@@ -2,9 +2,6 @@
 //  GameState.h
 //  LevelSolver
 //
-//  Created by Jonah Wallerstein on 7/10/14.
-//  Copyright (c) 2014 Whale Food Software. All rights reserved.
-//
 
 #ifndef __LevelSolver__GameState__
 #define __LevelSolver__GameState__

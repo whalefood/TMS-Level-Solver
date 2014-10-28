@@ -1,10 +1,6 @@
 //
 //  SpookyHash.cpp
 //  LevelSolver
-//
-//  Created by Jonah Wallerstein on 4/11/14.
-//  Copyright (c) 2014 Whale Food Software. All rights reserved.
-//
 
 #include "SpookyHash.h"
 

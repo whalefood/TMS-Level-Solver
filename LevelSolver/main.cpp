@@ -2,11 +2,9 @@
 //  main.cpp
 //  LevelSolver
 //
-//  Created by Jonah Wallerstein on 4/10/14.
-//  Copyright (c) 2014 Whale Food Software. All rights reserved.
-//
 
 #include <iostream>
+#include <fstream>
 #include <cstdint>
 #include <string>
 #include <vector>
@@ -252,12 +250,9 @@ GameState * tryMovePlayerInDir(GameState * startState, Dir direction)
 // add all player movements to the state queue
 void addAllPlayerMovements(GameState * rootState)
 {
-    //prioritize player closer to end
     bool triedSpots[LEVEL_SIZE] = {};
     vector<GameState *> newStates;
     queue<GameState *> fillQueue;
-    //rootState =new GameState(rootState);
-    //rootState->numMoves++;
     fillQueue.push(rootState);
     
     int newMoveNum = rootState->numMoves+1;
@@ -320,10 +315,7 @@ void addAllPlayerMovements(GameState * rootState)
     }
     
     for (const auto& state: newStates) {
-        if(!tryAddToStateQueue(state))
-        {
-            //delete state;
-        }
+        tryAddToStateQueue(state);
     }
 }
 
@@ -333,10 +325,6 @@ queue<pair<GameState*,int>> snakeMoveQueue;
 
 void newaddAllSnakeMovements(GameState * rootState, int snakeIndex)
 {
-    
-    
-    // make a queue of all new states
-    //unordered_set<GameStateRef> newStates;
     snakeMoveIndex.clear();
     GameState* newRoot = new GameState(rootState);
     newRoot->lastMovedIndex = snakeIndex;
@@ -540,19 +528,8 @@ void addAllSnakeMovements(GameState * rootState, int snakeIndex)
         {
             helper(newRoot, snakeIndex,snakeIndex-1, tail,Dir::W);
         }
-        
-        
     }
     
-    /*for (const auto& stateref: newStates) {
-        tryAddToStateQueue(stateref.gameState);
-    }*/
-    
-    /*clean up loops
-    for (const auto& state: loops) {
-        delete state.gameState;
-    }*/
-    //cout <<"Snakes revisited: " << snakeVistedCount << endl;
 }
 
 int main(int argc, const char * argv[])
@@ -579,27 +556,43 @@ int main(int argc, const char * argv[])
     
     populateSnakeHelpers();
     
-    // insert code here...
-    string levelString;
-   // cout<<"LevelString:\n";
-   // std::cin >> levelString;
-   // cout<<"exit point:\n";
-    //std::cin>>endIndex;
+    //check for level file
     
     
-    //levelString=argv[2];// "<7n<7nLJrJL7_V@rJr7nL>VLJ";
-    //endIndex = atoi(argv[1]);
+    string levelFileStr;
     
+    if(argc == 1)
+    {
+        cout<<"Please enter a level file location:\n";
+        std::cin >>levelFileStr;
+    }
+    else
+    {
+        levelFileStr =argv[1];
+    }
     
+    string levelString = "";
+    ifstream levelFile(levelFileStr);
+    if (levelFile.is_open())
+    {
+        string line;
+        getline (levelFile,line);
+        endIndex = atoi(line.c_str());
+        
+        while ( getline (levelFile,line) )
+        {
+            levelString+=line;
+        }
+        levelFile.close();
+    }
+    else
+    {
+        cout << "Unable to open file"<<endl;
+        return 0;
+    }
     
-    levelString="<><7__<7_|__nL=J<7|<7<7VL7L7L7@L>L=J"; //"______r===7nVr=7|VrJ@||_|_<J|_L===J_";
-    
-       endIndex = 5;
     
     GameState *startState = stringToGameState(levelString);
-    
-  
-    //startState->print();
     
     
     stateQueue.push(startState);
@@ -610,63 +603,23 @@ int main(int argc, const char * argv[])
     
     time_t startTime = time(0);
     
-    int cnt = 0;
-    
+    //keeping a queue of states to explore
     while(stateQueue.size() > 0)
     {
-        /*switch (currentFoundStep) {
-            case 0:
-                if(stateIndex.find(step1) != stateIndex.end())
-                {
-                    currentFoundStep++;
-                    cout<<"found Step 1"<<endl;
-                }
-                break;
-            case 1:
-                if(stateIndex.find(step2) != stateIndex.end())
-                {
-                    currentFoundStep++;
-                    cout<<"found Step 2"<<endl;
-                }
-                break;
-            case 2:
-                if(stateIndex.find(step3) != stateIndex.end())
-                {
-                    currentFoundStep++;
-                    cout<<"found Step 3"<<endl;
-                }
-                break;
-            case 3:
-                if(stateIndex.find(step4) != stateIndex.end())
-                {
-                    currentFoundStep++;
-                    cout<<"found Step 4"<<endl;
-                }
-                break;
-                
-            default:
-                break;
-        }*/
-        
         GameState * originState = stateQueue.front();
         stateQueue.pop();
         
         if(originState->numMoves > moveNum)
         {
-            cout<<"evaluating move num "<<originState->numMoves<<" with this many news "<<stateQueue.size()<<endl;
+            cout<<"evaluating move num "<<originState->numMoves<<" with this many new states "<<stateQueue.size()<<endl;
             moveNum =originState->numMoves;
             
             time_t endTime = time(0);
             
             cout<<"time taken "<<difftime (endTime, startTime)<<endl;
             
-            //int in;
-            //cin>>in;
         }
         
-        //cout<<++cnt<<endl;
-        //originState->print();
-        //cout<<endl;
         
         if(originState->layout[endIndex] == OccupantKey::Player)
         {
@@ -687,7 +640,7 @@ int main(int argc, const char * argv[])
             break;
         }
         
-        
+        // then try all snake moves
         for(int i=0; i<LEVEL_SIZE; i++)
         {
             if(originState -> lastMovedIndex == i)
@@ -703,16 +656,6 @@ int main(int argc, const char * argv[])
             }
         }
      
-        
-        /*
-        while(stateQueue.size() > 0)
-        {
-            GameState * state = stateQueue.front();
-            stateQueue.pop();
-            state->print();
-            cout<<endl<<state->numMoves<<endl;
-        }
-        return 0;*/
     }
     
     if(solvedState != NULL)
@@ -751,8 +694,6 @@ int main(int argc, const char * argv[])
             GameState* thisStep= reverseList[cntr];
             
             
-            //thisStep->print();
-            //cout<<endl;
             //figure out if new char or still moving old
             int movedIndex = thisStep->lastMovedIndex;
             switch(thisStep->lastMovedDir)
@@ -777,9 +718,6 @@ int main(int argc, const char * argv[])
                     break;
             }
             
-          //  cout<<endl<<endl<<currentlyMovingIndx<<endl<<thisStep->lastMovedIndex<<endl;
-           // thisStep->print();
-            
             if(movedIndex != currentlyMovingIndx)
             {
                 //print coords cause new char
@@ -799,8 +737,6 @@ int main(int argc, const char * argv[])
         cout<<"};\n";
         cout<<"solved in "<<numMoves<<" moves\n";
     }
-    //cout<<"\ndone\n";
-    //std::cin >> levelString;
     return 0;
 }
 

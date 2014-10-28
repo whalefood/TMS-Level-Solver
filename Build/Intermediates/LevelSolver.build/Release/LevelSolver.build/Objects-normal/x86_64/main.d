@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/main.cpp \
-  /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SpookyHash.h \
+  /Users/Jonah2/Developer/TMS-Level-Solver/LevelSolver/main.cpp \
+  /Users/Jonah2/Developer/TMS-Level-Solver/LevelSolver/SpookyHash.h \
   /usr/local/include/google/sparse_hash_map \
   /usr/local/include/sparsehash/sparse_hash_map \
   /usr/local/include/sparsehash/internal/sparseconfig.h \
@@ -17,6 +17,6 @@ dependencies: \
   /usr/local/include/sparsehash/internal/densehashtable.h \
   /usr/local/include/google/dense_hash_set \
   /usr/local/include/sparsehash/dense_hash_set \
-  /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/Settings.h \
-  /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/SolverHelperTypes.h \
-  /Users/Jonah2/Developer/TooManySnakes_glider/LevelSolver/LevelSolver/GameState.h
+  /Users/Jonah2/Developer/TMS-Level-Solver/LevelSolver/Settings.h \
+  /Users/Jonah2/Developer/TMS-Level-Solver/LevelSolver/SolverHelperTypes.h \
+  /Users/Jonah2/Developer/TMS-Level-Solver/LevelSolver/GameState.h
